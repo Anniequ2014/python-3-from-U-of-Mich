@@ -110,10 +110,7 @@ def word_around_face(image_zip,word):
     
    
 word_around_face(images_zip,'Mark')          
-  
-    
-                
-                
+#word_around_face(small_zip,'Christopher')           
                 
             
                
